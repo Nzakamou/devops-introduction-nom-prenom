@@ -1,1 +1,18 @@
-
+/* Modification de la police et de la couleur de fond */
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+/* Modification de la couleur du titre */
+h1 {
+    color: #2c3e50;
+}
+.nom {
+    font-weight: bold;
+    color: #34495e;
+}
+.citation {
+    font-style: italic;
+    color: #007bff;
+}
